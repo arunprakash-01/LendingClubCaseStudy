@@ -57,7 +57,7 @@ The data set loans.csv is extract of purchases between years 2007-11.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@arunprakash-01] - feel free to contact me!
 
 
 <!-- Optional -->
