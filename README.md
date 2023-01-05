@@ -34,6 +34,12 @@ Busiess problem the analysis is to determine the drving factor for the default. 
 - What is the dataset that is being used?
 The data set loans.csv is extract of purchases between years 2007-11.
 
+- What steps that were used in analysis?
+Step 1: Data Cleaning 1
+Step 2: Univariate Analysis
+Step 3: Bivaraiate/Multivariate Analysis
+Step 4: Observations
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
