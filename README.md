@@ -1,4 +1,4 @@
-# Lending Club Case Study
+## Lending Club Case Study
 > Lending loans to ‘risky’ applicants is the largest source of financial loss
 (called credit loss). The credit loss is the amount of money lost by the lender 
 when the borrower refusesto pay or runs away with the money owed.  
@@ -26,9 +26,13 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 -  Lending Club is is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
 
 - What is the background of your project?
+Typically for a  consumer finance company upon receiving  a loan application, the company has to make a decision whether to approve or reject loan  based on the applicant’s profile. Even for approved loans ,there is inherant risk of defaulting.
 
 - What is the business probem that your project is trying to solve?
+Busiess problem the analysis is to determine the drving factor for the default.  The revenue loss can be prevented by offering better rates to customers.
+
 - What is the dataset that is being used?
+The data set loans.csv is extract of purchases between years 2007-11.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
