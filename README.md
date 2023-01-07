@@ -43,8 +43,11 @@ Step 4: Observations
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
+1.Borrowers particularly from California with home ownership as Rent or Mortage have higher chances of default.
+2.Lending club should look into verification of applicants for loans  taken for purpose of Debt Consolidation or Small business in fourth quarter of the year.
+3.There is high risk of default with employees having 10+ years' experience and in Grades F & G
+4. Most defaults have been for loans with average interest rates have been 10-15% and for lower loan amounts upto 10k.
+
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
